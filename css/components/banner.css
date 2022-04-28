@@ -1,0 +1,36 @@
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.banner {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 561px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.banner h1 {
+  color: #1919cc;
+  margin: 0;
+}
+
+.banner p {
+  color: #1919cc;
+  opacity: .7;
+  font-size: 20px;
+  margin: 0;
+  padding: 5px
+}
+
+.btn-gomu {
+  display: inline-block;
+  background-color: #1919cc;
+  padding: 10px 14px;
+  border-radius: 50px;
+  color: white;
+  font-size: small;
+  font-family: Roboto Slab, serif;;
+}
